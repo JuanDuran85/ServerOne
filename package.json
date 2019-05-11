@@ -1,0 +1,19 @@
+{
+  "name": "serverone",
+  "version": "1.0.0",
+  "description": "Servidor basico creado con el curso de NodeJS.",
+  "main": "serverOne.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JuanDuran85/ServerOne.git"
+  },
+  "author": "JuanDuran85",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanDuran85/ServerOne/issues"
+  },
+  "homepage": "https://github.com/JuanDuran85/ServerOne#readme"
+}
